@@ -3,4 +3,8 @@
 /mysql/
 app/*
 !/app/src
+!/app/templates
+!/app/migrations
+!/app/composer.*
+!/app/symfony.lock
 ###< symfony/framework-bundle ###
