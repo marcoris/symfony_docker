@@ -2,6 +2,7 @@
 ###> symfony/framework-bundle ###
 /mysql/
 app/*
+!/app/.gitignore
 !/app/src
 !/app/templates
 !/app/migrations
