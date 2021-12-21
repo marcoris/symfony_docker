@@ -2,7 +2,12 @@
 Trying from https://www.twilio.com/blog/get-started-docker-symfony
 
 ## Getting started
-First run following command to install and create symfony stuff:
+First run following command to build the docker container:
+```bash
+docker compose up -d
+```
+
+Then install and create symfony stuff with:
 ```bash
 cat symfony.sh | docker exec -i php bash
 ```
