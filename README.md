@@ -1,5 +1,9 @@
 # Starter boilerplate with Symfony, Docker, Doctrine and Twig
-Trying from https://www.twilio.com/blog/get-started-docker-symfony
+Version 1.0.0
+
+Inspired from https://www.twilio.com/blog/get-started-docker-symfony
+
+[![GitHub commit](https://img.shields.io/github/last-commit/marcoris/symfony_docker)](https://github.com/marcoris/symfony_docker/commits/master) ![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/marcoris/symfony_docker) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/marcoris/symfony_docker) ![GitHub issues](https://img.shields.io/github/issues/marcoris/symfony_docker) ![GitHub pull requests](https://img.shields.io/github/issues-pr/marcoris/symfony_docker) [![GitHub license](https://img.shields.io/github/license/marcoris/symfony_docker)](https://github.com/marcoris/symfony_docker/blob/master/LICENSE)
 
 ## Getting started
 First run following command to build the docker container:
