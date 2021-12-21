@@ -1,4 +1,4 @@
-# symfony_docker
+# Starter boilerplate with Symfony, Docker, Doctrine and Twig
 Trying from https://www.twilio.com/blog/get-started-docker-symfony
 
 ## Getting started
