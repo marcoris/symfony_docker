@@ -9,3 +9,4 @@ app/*
 !/app/composer.*
 !/app/symfony.lock
 ###< symfony/framework-bundle ###
+docker/*
